@@ -1,3 +1,11 @@
+
+#timer{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
 .layout{
     margin: 5px !important;
     padding : 5px !important;
@@ -71,5 +79,4 @@ p{
 .navi-dot-row{
     display: flex;
     align-items: center;
- 
 }
